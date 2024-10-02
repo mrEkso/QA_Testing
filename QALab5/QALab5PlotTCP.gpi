@@ -1,0 +1,16 @@
+#!/usr/bin/gnuplot -persist
+
+set xlabel "Time, sec"
+set ylabel "Mbit/sec"
+
+files = system("ls -1 *.txt")
+phone(f) = substr(f, 5, strlen(f) - 4)
+
+plot \
+for [file in files] file \
+using ($3 > 8 ? $7 : $8) \
+every ::6 \
+title phone(file) \
+with lines
+
+pause mouse close

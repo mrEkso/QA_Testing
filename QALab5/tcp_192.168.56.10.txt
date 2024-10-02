@@ -1,0 +1,25 @@
+------------------------------------------------------------
+Client connecting to 192.168.56.11, TCP port 5001
+TCP window size: 2.50 MByte (default)
+------------------------------------------------------------
+[  1] local 192.168.56.11 port 41176 connected with 192.168.56.11 port 5001 (icwnd/mss/irtt=319/32741/57)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-1.0000 sec   562 MBytes  4.71 Gbits/sec
+[  1] 1.0000-2.0000 sec   748 MBytes  6.27 Gbits/sec
+[  1] 2.0000-3.0000 sec   691 MBytes  5.79 Gbits/sec
+[  1] 3.0000-4.0000 sec   587 MBytes  4.93 Gbits/sec
+[  1] 4.0000-5.0000 sec   622 MBytes  5.22 Gbits/sec
+[  1] 5.0000-6.0000 sec   585 MBytes  4.91 Gbits/sec
+[  1] 6.0000-7.0000 sec   643 MBytes  5.39 Gbits/sec
+[  1] 7.0000-8.0000 sec   521 MBytes  4.37 Gbits/sec
+[  1] 8.0000-9.0000 sec   596 MBytes  5.00 Gbits/sec
+[  1] 9.0000-10.0000 sec   569 MBytes  4.77 Gbits/sec
+[  1] 10.0000-11.0000 sec   439 MBytes  3.68 Gbits/sec
+[  1] 11.0000-12.0000 sec   677 MBytes  5.68 Gbits/sec
+[  1] 12.0000-13.0000 sec   518 MBytes  4.34 Gbits/sec
+[  1] 13.0000-14.0000 sec   560 MBytes  4.69 Gbits/sec
+[  1] 14.0000-15.0000 sec   466 MBytes  3.91 Gbits/sec
+[  1] 15.0000-16.0000 sec   399 MBytes  3.35 Gbits/sec
+[  1] 16.0000-17.0000 sec   609 MBytes  5.11 Gbits/sec
+[  1] 17.0000-18.0000 sec   355 MBytes  2.98 Gbits/sec
+[  1] 18.0000-19.0000 sec   394 MBytes  3.30 Gbits/sec
