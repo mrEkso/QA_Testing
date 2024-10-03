@@ -38,5 +38,5 @@ else:
     for value in result_list:
         transfer = float(str(value['Transfer']).split(' ')[0])
         bitrate = float(str(value['Bitrate']).split(' ')[0])
-        if transfer > 1 and bitrate > 1:
+        if transfer > 300 and bitrate > 300:
             print(value)
